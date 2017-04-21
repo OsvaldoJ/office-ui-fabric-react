@@ -1,6 +1,13 @@
 # Change Log - @uifabric/utilities
 
-This log was last generated on Wed, 19 Apr 2017 16:54:26 GMT and should not be manually modified.
+This log was last generated on Fri, 21 Apr 2017 06:09:02 GMT and should not be manually modified.
+
+## 1.8.3
+Fri, 21 Apr 2017 06:09:02 GMT
+
+### Patches
+
+- Updating setRTL to write isRTL to local storage. This allows the setting to persist across sessions.
 
 ## 1.8.0
 Wed, 19 Apr 2017 16:54:26 GMT
